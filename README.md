@@ -2,7 +2,17 @@
 
 ![](https://ichef.bbci.co.uk/news/624/cpsprodpb/AB27/production/_111451834_rankretireesall-nc.png)
 
+The Metropolitan Police is asking officers who retired in the past five years to consider coming back in some capacity to help out during the coronavirus pandemic.
+
+Other forces may do similar but it will depend on local needs.
+
 In March 2020 we [reported](https://www.bbc.co.uk/news/uk-england-52067772) on the numbers of police officers in England and Wales who had retired over the past five years and may be willing to rejoin their forces and help the country cope with coronavirus.
+
+We analysed the Home Office workforce data to look at how many officers around England and Wales (plus the British Transport Police) had retired in the latest five years on record.
+
+We found there were over 22,000 who left through “normal retirement”, excluding those who did so on medical grounds, through resignation, dismissal or transfer.
+
+The former officers we spoke to believe colleagues would willingly return to service if they were asked to.
 
 ## Get the data
 
